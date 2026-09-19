@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm clippercroix</h1>
+<h1 align="center">Hi 👋, I'm Clipper Croix!</h1>
 <h2 align="center">A passionate frontend 💀 developer from Michigan</h2>
 <h3 align="center">"i bUilD tHiNGs!" 😱🥀😭🙏</h3>
 
