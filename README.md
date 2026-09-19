@@ -1,17 +1,24 @@
 <h1 align="center">Hi 👋, I'm Clipper Croix!</h1>
-<h2 align="center">A passionate frontend 💀 developer from Michigan</h2>
+<h3 align="center">A passionate frontend 💀 developer from Michigan</h3>
 <h3 align="center">"i bUilD tHiNGs!" 😱🥀😭🙏</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clippercroix&label=Profile%20views&color=0e75b6&style=flat" alt="clippercroix" /> </p>
+<div align="center">  
+<img src="https://komarev.com/ghpvc/?username=clippercroix&label=Profile%20views&color=0e75b6&style=flat" alt="clippercroix">
+</div>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   nah bro i'll do ts later
 </p>
-<div align="center">
+
+<!--
   ![snake gif](https://github.com/clippercroix/clippercroix/blob/output/github-snake-dark.svg)
+-->
+
+<div align="center">  
+  <img src="https://github.com/clippercroix/clippercroix/blob/output/github-snake-dark.svg" alt="Snake Game">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
 </div>
 
 
